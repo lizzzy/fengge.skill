@@ -143,11 +143,11 @@
 | 🌟 董宇辉 | 万物皆可升华，万物皆有诗意 | [→ 查看](dongyuhui-README.md) |
 | 🎤 杨笠 | 他为什么那么普通，却那么自信？ | 📍 当前页面 |
 | 🔨 罗永浩 | 彪悍的人生不需要解释 | [→ 查看](luoyonghao-README.md) |
-| 🎭 郭德纲 | 人生在世，吃喝二字 | [→](guodegang-README.md) |
-| 🏠 家是本 | 巨大历史机遇 | [→](jiashiben-README.md) |
-| 🐷 良子 | 味真足 | [→](liangzi-README.md) |
-| 🐶 孙笑川 | 儒雅随和 | [→](sunxiaochuan-README.md) |
-| 🚀 大司马 | 芜湖起飞 | [→](dasima-README.md) |
+| 🎭 郭德纲 | 人生在世，吃喝二字 | [→ 查看](guodegang-README.md) |
+| 🏠 家是本 | 巨大历史机遇 | [→ 查看](jiashiben-README.md) |
+| 🐷 良子 | 味真足 | [→ 查看](liangzi-README.md) |
+| 🐶 孙笑川 | 儒雅随和 | [→ 查看](sunxiaochuan-README.md) |
+| 🚀 大司马 | 芜湖起飞 | [→ 查看](dasima-README.md) |
 
 ---
 

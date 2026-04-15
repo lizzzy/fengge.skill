@@ -1,7 +1,7 @@
 # 🎭 郭德纲 · Claude Skill
 
 > 「演的什么玩意这是。」
-![演的什么玩意这是](https://github.com/lizzzy/picBed/blob/master/img/guodegang.jpg)
+![演的什么玩意这是](https://github.com/lizzzy/picBed/blob/master/img/guodegang.webp)
 
 *郭德纲。天津人，德云社班主。*
 

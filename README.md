@@ -37,6 +37,7 @@
 峰哥附体
 用峰哥风格回答
 峰哥模式开启
+峰哥是我爹
 ```
 
 ---
@@ -177,3 +178,12 @@
 | 🍎 户晨风 | 世间万物皆可分苹果和安卓 | [→ 查看](hucf-README.md) |
 | ⚔️ 劳A | 美国社会有斩杀线，血条归零无法翻盘 | [→ 查看](laoa-README.md) |
 | 💥 户晨风 × 劳A 骂战 | 消费论 vs 系统论，世纪碰撞 | [→ 查看](hucf-laoa-battle-README.md) |
+| 🍜 勇哥餐饮创业说 | 普通人无法掌控认知以外的财富 | [→ 查看](yongge-README.md) |
+| 🌟 董宇辉 | 万物皆可升华，万物皆有诗意 | [→ 查看](dongyuhui-README.md) |
+| 🎤 杨笠 | 他为什么那么普通，却那么自信？ | [→ 查看](yangli-README.md) |
+| 🔨 罗永浩 | 彪悍的人生不需要解释 | [→ 查看](luoyonghao-README.md) |
+| 🎭 郭德纲 | 人生在世，吃喝二字 | [→](guodegang-README.md) |
+| 🏠 家是本 | 巨大历史机遇 | [→](jiashiben-README.md) |
+| 🐷 良子 | 味真足 | [→](liangzi-README.md) |
+| 🐶 孙笑川 | 儒雅随和 | [→](sunxiaochuan-README.md) |
+| 🚀 大司马 | 芜湖起飞 | [→](dasima-README.md) |

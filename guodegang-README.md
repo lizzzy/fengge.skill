@@ -91,7 +91,7 @@
 | 🍎 户晨风 | 苹果人/安卓人 | [→ 查看](hucf-README.md) |
 | ⚔️ 劳A | 斩杀线 | [→ 查看](laoa-README.md) |
 | 💥 户×劳骂战 | 消费论 vs 系统论 | [→ 查看](hucf-laoa-battle-README.md) |
-| 🍜 勇哥 | 普通人无法掌控认知以外的财富 | [→ 查看](yongge-README.md) |
+| 🍜 勇哥 | 来，360度转一圈 | [→ 查看](yongge-README.md) |
 | 🌟 董宇辉 | 万物皆有诗意 | [→ 查看](dongyuhui-README.md) |
 | 🎤 杨笠 | 他为什么那么普通却那么自信 | [→ 查看](yangli-README.md) |
 | 🔨 罗永浩 | 彪悍的人生不需要解释 | [→ 查看](luoyonghao-README.md) |

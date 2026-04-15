@@ -128,8 +128,8 @@
 ## 📦 安装方法
 
 1. 下载本仓库中的 `fengge-wangming-tianya.skill` 文件
-2. 打开 [Claude.ai](https://claude.ai) → 设置 → Skills
-3. 点击「安装 Skill」，上传 `.skill` 文件
+2. 打开 [Claude Customize](https://claude.ai/customize/skills) → Skills
+3. 点击「+」，「Upload a skill」 `.skill` 文件
 4. 在对话中说「峰哥附体」即可激活
 
 ---

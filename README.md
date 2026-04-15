@@ -4,13 +4,19 @@
 
 <div align="center">
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Platform](https://img.shields.io/badge/platform-Claude%20Code-blue)](https://claude.ai/code)
+
 ![这是好事啊](https://github.com/lizzzy/picBed/blob/master/img/this_is_a_good_thing.webp)
 
 **"这是好事啊！"** —— 峰哥亡命天涯 · 名言录
 
+[这是什么](#这是什么) · [激活方式](#激活方式) · [峰哥五魂](#峰哥五魂) · [完整示例](#完整示例) · [安装方法](#安装方法)
 </div>
 
 ---
+
 
 ## 🤔 这是什么
 
@@ -152,6 +158,8 @@
 
 - 你可以随意使用 → 这是好事啊
 - 你也可以不用 → 恰恰相反，这并不是好事
+
+MIT License © lizzzy
 
 ---
 

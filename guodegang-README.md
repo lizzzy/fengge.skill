@@ -88,7 +88,7 @@
 |------|------|--------|
 | ⛰️ 峰哥 | 万物皆为性压抑 | [→ 查看](README.md) |
 | 📚 张雪峰 | 先活下去再谈理想 | [→ 查看](zhangxuefeng-README.md) |
-| 🍎 户晨风 | 苹果/安卓两极 | [→ 查看](hucf-README.md) |
+| 🍎 户晨风 | 苹果人/安卓人 | [→ 查看](hucf-README.md) |
 | ⚔️ 劳A | 斩杀线 | [→ 查看](laoa-README.md) |
 | 💥 户×劳骂战 | 消费论 vs 系统论 | [→ 查看](hucf-laoa-battle-README.md) |
 | 🍜 勇哥 | 普通人无法掌控认知以外的财富 | [→ 查看](yongge-README.md) |

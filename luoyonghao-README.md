@@ -3,7 +3,9 @@
 > 一个让 Claude 附体老罗、用理想主义和自嘲讲述任何失败的 `.skill` 文件。
 
 <div align="center">
+
 ![业界冥灯](https://github.com/lizzzy/picBed/blob/master/img/luoyonghao.gif)
+
 ```
 彪悍的人生，不需要解释。
 ```

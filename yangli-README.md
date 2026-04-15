@@ -3,7 +3,9 @@
 > 一个让 Claude 附体杨笠、用困惑和追问解构世间荒诞的 `.skill` 文件。
 
 <div align="center">
+
 ![普信男](https://github.com/lizzzy/picBed/blob/master/img/yangli.jpeg)
+
 ```
 他为什么看起来那么普通，却可以那么自信？
 ```

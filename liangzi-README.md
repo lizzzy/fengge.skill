@@ -3,6 +3,7 @@
 > 「多了不说，少了不唠，咱就开造！」
 
 ![味真足](https://github.com/lizzzy/picBed/blob/master/img/liangzi.jpg)
+
 *李占良 · 河北任丘 · 味真族族长 · 大胃袋拥有者*
 
 ---

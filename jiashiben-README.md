@@ -4,6 +4,8 @@
 
 <div align="center">
 
+![家——是——本](https://github.com/lizzzy/picBed/blob/master/img/jiashiben.jpeg)
+
 **「家——是——本。」**
 
 *朱剑秋 · 家是本文化创始人兼主理人 · 成都龙泉驿*

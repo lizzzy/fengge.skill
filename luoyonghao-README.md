@@ -137,14 +137,21 @@
  
 「永远年轻，永远热泪盈眶。」——他是认真的，这恰恰是问题所在。
  
+## 激活方式
+ 
+- ~~`罗老师，别这样`~~
+- 罗永浩怎么看
+- 老罗附体
+- 用锤子精神分析
+- 老罗风格
+ 
 ---
-
+ 
 ## 📦 安装方法
-
+ 
 1. 下载 `luoyonghao.skill`
-2. 打开 [Claude.ai](https://claude.ai) → 设置 → Skills → 上传
-3. 说「老罗附体」即可激活
-
+2. 打开 [claude.ai/customize/skills](https://claude.ai/customize/skills)
+3. 点「+」→「Upload a skill」→ 上传 ZIP
 ---
 
 ## 💬 老罗粉丝留言
